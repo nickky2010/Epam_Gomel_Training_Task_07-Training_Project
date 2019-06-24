@@ -1,5 +1,6 @@
-# Epam_Gomel_Training_Task_07-Training_Project
-EPAM Training (Gomel) ASP.NET Core Task 7 - Training_Project
+# EPAM Training (Gomel) Task 7 - Training Project 
+## Backend: ASP.NET Core MVC
+## Frontend: Jquery UI (JqGrid Bootstrap 4)
 
 ***
 
@@ -23,3 +24,36 @@ EPAM Training (Gomel) ASP.NET Core Task 7 - Training_Project
 
 5.***Пятый шаг***, опциональный. Если у Вас всё получилось и есть время и желание, то разработанное серверное приложение нужно дополнить функционалом, который позволит редактировать хранящиеся на сервере данные через `web`-интерфейс.
 
+
+***
+## Решение задания: серверная часть на ASP.NET Core MVC, Frontend: с использованием jquery-ui+ui.jqgrid-bootstrap4.
+
+#### Вид страницы после запуска:
+
+![Alt text](/Image/2.PNG?raw=true "Вид страницы после запуска")
+
+#### Просмотр записей отдела:
+
+![Alt text](/Image/3.PNG?raw=true "Записи отдела")
+
+#### Редактирование записи:
+
+![Alt text](/Image/4.PNG?raw=true "Редактирование")
+
+#### Добавление записи:
+
+![Alt text](/Image/5.PNG?raw=true "Добавление")
+
+#### Удаление записи:
+
+![Alt text](/Image/6.PNG?raw=true "Удаление")
+
+#### Просмотр записи:
+
+![Alt text](/Image/7.PNG?raw=true "Просмотр")
+
+#### Поиск записи:
+
+![Alt text](/Image/8.PNG?raw=true "Поиск")
+
+#### Код будет добавлен по окончанию дедлайна в EPAM.
